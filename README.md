@@ -2,7 +2,6 @@
 - 👀 I’m interested in life itself...
 - 🌱 I’m currently learning qiskit..
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me is not easy
 -  initials: BAL
   
 
